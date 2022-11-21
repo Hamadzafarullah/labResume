@@ -10,11 +10,11 @@
     "resume"
   ],
   "author": "hamad",
-  "license": "ISC"
+  "license": "ISC",
   
   "bin": {
     "your-command-here": "./index.js"
-  },
+  }
 
 
 }
